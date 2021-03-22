@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Henrry
-- I’m interested in the programming using python, goland, SQL and more. 
-- I’m currently learning postgreSQL at home.
-- I’m looking to collaborate with any security enterprise.
+- I’m interested in programming, python, go, SQL, and more. 
+- I currently work from home.
+- I am looking to collaborate with companies.
 
 <!---
 Henrry/hms39bmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
